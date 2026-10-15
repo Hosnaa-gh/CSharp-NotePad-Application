@@ -2,7 +2,7 @@
 
 ![Notepad — a desktop notebook](assets/cover.svg)
 
-**A small writing space with the look of a paper notebook.**
+**A small writing space with the look of a paper notebook**
 
 `C#` · `Windows Forms` · `.NET 5` · `System.IO`
 
@@ -10,7 +10,7 @@
 
 ## A notebook, not another blank window
 
-This is a personal desktop Notepad project built in C# with Windows Forms. Instead of a standard editor window, it uses a spiral-bound notebook design, warm paper colours and bright orange controls. The idea is simple: open the app, write something down, and save it as a text file.
+This is a personal desktop Notepad project built in C# with Windows Forms. Instead of a standard editor window, it uses a spiral bound notebook design, warm paper colours and bright orange controls.
 
 ## Inside the app
 
