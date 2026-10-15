@@ -63,6 +63,3 @@ The interface includes a writing area, a search field, and **Save** and **Load**
 └── README.md
 ```
 
-## A note on the project
-
-This project was made as a hands-on Windows Forms exercise, combining event-driven programming, file dialogs, text handling and a custom illustrated interface. It is shared as an original learning project rather than a production-ready editor.
